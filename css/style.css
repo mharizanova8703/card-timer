@@ -1,0 +1,29 @@
+.bg-pink {
+  background-color: #8b008a;
+}
+
+.pink {
+  color: #8b008a;
+}
+
+.bright-pink {
+  color: #cc01cb;
+}
+
+.bg-bright-pink {
+  background-color: #cc01cb;
+}
+
+body {
+  background-color: white;
+}
+
+.med-font {
+  font-size: 2rem;
+}
+
+.large-font {
+  font-size: 5rem;
+}
+
+/*# sourceMappingURL=style.css.map */
